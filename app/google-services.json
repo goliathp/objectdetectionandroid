@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1026407171095",
+    "firebase_url": "https://sherlock-s-fruit.firebaseio.com",
+    "project_id": "sherlock-s-fruit",
+    "storage_bucket": "sherlock-s-fruit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026407171095:android:58a820ca2c564aedb64852",
+        "android_client_info": {
+          "package_name": "com.example.sherlocksfruit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026407171095-fnurkgjfdlnorcgbd07fnefen82jcqrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sherlocksfruit",
+            "certificate_hash": "d613789b991d55a7d3468dbd87cecff19fca37d4"
+          }
+        },
+        {
+          "client_id": "1026407171095-n1lgq3tv2cvved4dmvfflogpp2g4uooe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPS1gGK6lmfTGWpKe59LsZoe8dndEdyGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026407171095-n1lgq3tv2cvved4dmvfflogpp2g4uooe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
